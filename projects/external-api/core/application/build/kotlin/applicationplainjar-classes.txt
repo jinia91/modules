@@ -1,0 +1,1 @@
+/Users/wonjin-choi/Downloads/modules_project/projects/external-api/core/application/build/classes/kotlin/main/kr/co/external_api/application/ItemRegisterService.class

@@ -1,0 +1,4 @@
+org.springframework.boot.env.EnvironmentPostProcessor=\
+  kr.co.external_api.EnvironmentPostProcessorImpl
+org.springframework.context.ApplicationListener=\
+  kr.co.external_api.EnvironmentPostProcessorImpl
